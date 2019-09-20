@@ -63,7 +63,7 @@ public class Test {
 				
 			}else if(gender ==1 || gender == 3 || gender ==5 ) {
 				System.out.println("성별은 남자입니다.");
-				
+				System.out.println("집에서작업");
 			}*/
 		}
 		
